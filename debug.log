@@ -1,0 +1,7 @@
+[1029/115327.888:ERROR:process_info.cc(359)] UncheckedAllocate
+[1029/115327.907:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Vitalijs\AppData\Local\Temp\scoped_dir13976_959\Crashpad\attachments\51c0e6a2-e5f7-426a-9a45-63727b80b9c2: The system cannot find the path specified. (0x3)
+[1029/115348.423:ERROR:process_info.cc(359)] UncheckedAllocate
+[1029/115348.441:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Vitalijs\AppData\Local\Temp\scoped_dir2188_15850\Crashpad\attachments\bf48d014-7780-4179-a020-2fc53b674079: The system cannot find the path specified. (0x3)
+[1029/115827.086:ERROR:process_info.cc(359)] UncheckedAllocate
+[1029/115827.101:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Vitalijs\AppData\Local\Temp\scoped_dir3120_21214\Crashpad\attachments\a54b41de-7eb1-4001-94e0-0adecfb5676d: The system cannot find the path specified. (0x3)
+[1029/115831.937:ERROR:process_info.cc(359)] UncheckedAllocate
